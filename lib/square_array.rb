@@ -13,5 +13,3 @@ end
 new_array = new_array.push(new_numbers)
 
 end
-
-
