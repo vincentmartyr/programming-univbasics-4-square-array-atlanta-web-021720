@@ -8,6 +8,8 @@ p (array[counter])**2
 
 counter += 1
 
+return new_numbers
+
 end
 
 new_array = new_array.push(new_numbers)
