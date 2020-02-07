@@ -12,6 +12,4 @@ counter += 1
 end
 
 
-p new_array
-
 end
