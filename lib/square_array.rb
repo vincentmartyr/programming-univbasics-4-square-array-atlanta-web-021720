@@ -12,7 +12,7 @@ new_numbers
 
 end
 
-new_array = new_array.push(new_numbers)
+new_array = (array[counter])**2
 
 return new_array
 
