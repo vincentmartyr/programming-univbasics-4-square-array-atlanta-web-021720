@@ -10,6 +10,8 @@ counter += 1
 
 end
 
+new_array = new_array.push(new_numbers)
 
+return new_array
 
 end
