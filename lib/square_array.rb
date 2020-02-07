@@ -10,8 +10,4 @@ counter += 1
 
 end
 
-#new_array = (array[counter])**2
-
-#return new_array
-
 end
