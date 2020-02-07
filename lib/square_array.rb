@@ -8,7 +8,6 @@ p (array[counter])**2
 
 counter += 1
 
-
 end
 
 new_array = (array[counter])**2
