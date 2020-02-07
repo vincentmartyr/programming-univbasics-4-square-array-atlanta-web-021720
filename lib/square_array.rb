@@ -5,7 +5,7 @@ counter = 0
 
 while counter < array.length do
 
-(array[counter])**2
+puts (array[counter])**2
 
 counter += 1
 
