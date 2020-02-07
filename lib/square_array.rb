@@ -8,7 +8,7 @@ p (array[counter])**2
 
 counter += 1
 
-return new_numbers
+new_numbers
 
 end
 
